@@ -1,0 +1,1 @@
+import"./modulepreload-polyfill.b7f2da20.js";/* empty css               */import"./hover.38850bf6.js";import"./number-counter.7b8a0687.js";import"./vendor.c7c98add.js";(function(){return new Swiper("#kvCarousel",{loop:!0,pagination:{el:".swiper-pagination"}})})();

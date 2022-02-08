@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9ea210cc-e963-4e76-a8e7-52ce06f3bbe4": {
+      "ProjectGuid": "9ea210cc-e963-4e76-a8e7-52ce06f3bbe4",
+      "DisplayName": "Labixa",
+      "ColorIndex": 0
+    },
+    "6bdb3e77-b09c-4514-add2-19b03b1ac35b": {
+      "ProjectGuid": "6bdb3e77-b09c-4514-add2-19b03b1ac35b",
+      "DisplayName": "Outsourcing.Data",
+      "ColorIndex": 1
+    },
+    "9c27520d-d8b8-486a-a353-ebd5a81e4df2": {
+      "ProjectGuid": "9c27520d-d8b8-486a-a353-ebd5a81e4df2",
+      "DisplayName": "Outsourcing.Service",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "cd5d0955-e501-4709-9d91-002fd8f52a2d": {
+      "ProjectGuid": "cd5d0955-e501-4709-9d91-002fd8f52a2d",
+      "DisplayName": "Outsourcing.Core",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

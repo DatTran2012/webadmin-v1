@@ -1,0 +1,41 @@
+D:\Cong Ty\agritech\PioneerTRavel\PioneerTravel\Resources\bin\Debug\Resources.dll
+D:\Cong Ty\agritech\PioneerTRavel\PioneerTravel\Resources\bin\Debug\Resources.pdb
+D:\Cong Ty\agritech\PioneerTRavel\PioneerTravel\Resources\bin\Debug\en\Resources.resources.dll
+D:\Cong Ty\agritech\PioneerTRavel\PioneerTravel\Resources\bin\Debug\vi\Resources.resources.dll
+D:\Cong Ty\agritech\PioneerTRavel\PioneerTravel\Resources\obj\Debug\Resources.Resources.resources
+D:\Cong Ty\agritech\PioneerTRavel\PioneerTravel\Resources\obj\Debug\Resources.Resources.en.resources
+D:\Cong Ty\agritech\PioneerTRavel\PioneerTravel\Resources\obj\Debug\Resources.Resources.vi.resources
+D:\Cong Ty\agritech\PioneerTRavel\PioneerTravel\Resources\obj\Debug\Resources.csproj.GenerateResource.cache
+D:\Cong Ty\agritech\PioneerTRavel\PioneerTravel\Resources\obj\Debug\Resources.csproj.CoreCompileInputs.cache
+D:\Cong Ty\agritech\PioneerTRavel\PioneerTravel\Resources\obj\Debug\en\Resources.resources.dll
+D:\Cong Ty\agritech\PioneerTRavel\PioneerTravel\Resources\obj\Debug\vi\Resources.resources.dll
+D:\Cong Ty\agritech\PioneerTRavel\PioneerTravel\Resources\obj\Debug\Resources.dll
+D:\Cong Ty\agritech\PioneerTRavel\PioneerTravel\Resources\obj\Debug\Resources.pdb
+D:\petpro\Source_goc\PioneerTRavel\PioneerTravel\Resources\bin\Debug\Resources.dll
+D:\petpro\Source_goc\PioneerTRavel\PioneerTravel\Resources\bin\Debug\Resources.pdb
+D:\petpro\Source_goc\PioneerTRavel\PioneerTravel\Resources\bin\Debug\en\Resources.resources.dll
+D:\petpro\Source_goc\PioneerTRavel\PioneerTravel\Resources\bin\Debug\vi\Resources.resources.dll
+D:\petpro\Source_goc\PioneerTRavel\PioneerTravel\Resources\obj\Debug\Resources.csprojAssemblyReference.cache
+D:\petpro\Source_goc\PioneerTRavel\PioneerTravel\Resources\obj\Debug\Resources.Resources.resources
+D:\petpro\Source_goc\PioneerTRavel\PioneerTravel\Resources\obj\Debug\Resources.Resources.en.resources
+D:\petpro\Source_goc\PioneerTRavel\PioneerTravel\Resources\obj\Debug\Resources.Resources.vi.resources
+D:\petpro\Source_goc\PioneerTRavel\PioneerTravel\Resources\obj\Debug\Resources.csproj.GenerateResource.cache
+D:\petpro\Source_goc\PioneerTRavel\PioneerTravel\Resources\obj\Debug\Resources.csproj.CoreCompileInputs.cache
+D:\petpro\Source_goc\PioneerTRavel\PioneerTravel\Resources\obj\Debug\en\Resources.resources.dll
+D:\petpro\Source_goc\PioneerTRavel\PioneerTravel\Resources\obj\Debug\vi\Resources.resources.dll
+D:\petpro\Source_goc\PioneerTRavel\PioneerTravel\Resources\obj\Debug\Resources.dll
+D:\petpro\Source_goc\PioneerTRavel\PioneerTravel\Resources\obj\Debug\Resources.pdb
+E:\HocTap\ThucTap\A-Long-Thuc-Tap\PetPro_Source\PioneerTravel\Resources\bin\Debug\Resources.dll
+E:\HocTap\ThucTap\A-Long-Thuc-Tap\PetPro_Source\PioneerTravel\Resources\bin\Debug\Resources.pdb
+E:\HocTap\ThucTap\A-Long-Thuc-Tap\PetPro_Source\PioneerTravel\Resources\bin\Debug\en\Resources.resources.dll
+E:\HocTap\ThucTap\A-Long-Thuc-Tap\PetPro_Source\PioneerTravel\Resources\bin\Debug\vi\Resources.resources.dll
+E:\HocTap\ThucTap\A-Long-Thuc-Tap\PetPro_Source\PioneerTravel\Resources\obj\Debug\Resources.csproj.AssemblyReference.cache
+E:\HocTap\ThucTap\A-Long-Thuc-Tap\PetPro_Source\PioneerTravel\Resources\obj\Debug\Resources.Resources.resources
+E:\HocTap\ThucTap\A-Long-Thuc-Tap\PetPro_Source\PioneerTravel\Resources\obj\Debug\Resources.Resources.en.resources
+E:\HocTap\ThucTap\A-Long-Thuc-Tap\PetPro_Source\PioneerTravel\Resources\obj\Debug\Resources.Resources.vi.resources
+E:\HocTap\ThucTap\A-Long-Thuc-Tap\PetPro_Source\PioneerTravel\Resources\obj\Debug\Resources.csproj.GenerateResource.cache
+E:\HocTap\ThucTap\A-Long-Thuc-Tap\PetPro_Source\PioneerTravel\Resources\obj\Debug\Resources.csproj.CoreCompileInputs.cache
+E:\HocTap\ThucTap\A-Long-Thuc-Tap\PetPro_Source\PioneerTravel\Resources\obj\Debug\en\Resources.resources.dll
+E:\HocTap\ThucTap\A-Long-Thuc-Tap\PetPro_Source\PioneerTravel\Resources\obj\Debug\vi\Resources.resources.dll
+E:\HocTap\ThucTap\A-Long-Thuc-Tap\PetPro_Source\PioneerTravel\Resources\obj\Debug\Resources.dll
+E:\HocTap\ThucTap\A-Long-Thuc-Tap\PetPro_Source\PioneerTravel\Resources\obj\Debug\Resources.pdb

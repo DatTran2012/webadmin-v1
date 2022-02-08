@@ -1,0 +1,129 @@
+﻿
+<!DOCTYPE html>
+<html lang="en-US">
+
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name=viewport content="width=device-width,initial-scale=1">
+    <title>Pioneer Travel </title>
+
+    <!--START CSS-->
+    <link rel="stylesheet" href="/Content/Pioneer/css/style.css"> <!--main-->
+
+    <link rel="stylesheet" href="~/Content/Pioneer/css/bootstrap.css"> <!--main-->
+    <link rel="stylesheet" href="~/Content/Pioneer/css/grid.css"> <!--grid-->
+    <link rel="stylesheet" href="~/Content/Pioneer/css/responsive.css"> <!--responsive-->
+    <link rel="stylesheet" href="~/Content/Pioneer/rs-plugin/css/settings.css" media="screen" /> <!--rev slider-->
+    <link rel="stylesheet" href="~/Content/Pioneer/showbizpro/css/settings.css" media="screen" /> <!--showbiz-->
+    <link rel="stylesheet" href="~/Content/Pioneer/css/animate.css"> <!--animate-->
+    <link rel="stylesheet" href="~/Content/Pioneer/css/superfish.css" media="screen"> <!--menu-->
+    <link rel="stylesheet" href="~/Content/Pioneer/css/fancybox/jquery.fancybox.css"> <!--main fancybox-->
+    <link rel="stylesheet" href="~/Content/Pioneer/css/fancybox/jquery.fancybox-thumbs.css"> <!--fancybox thumbs-->
+    <link rel="stylesheet" href="~/Content/Pioneer/css/isotope.css"> <!--isotope-->
+    <link rel="stylesheet" href="~/Content/Pioneer/css/flexslider.css"> <!--flexslider-->
+    <link href="~/Content/custom.css" rel="stylesheet" />
+    <!--END CSS-->
+    <!--google fonts-->
+    <link href='http://fonts.googleapis.com/css?family=Signika:400,300,600,700' rel='stylesheet' type='text/css'>
+
+    <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!--FAVICONS-->
+    <link rel="shortcut icon" href="/Content/Pioneer/img/favicon/favicon.ico">
+    <link rel="apple-touch-icon" href="/Content/Pioneer/img/favicon/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/Content/Pioneer/img/favicon/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/Content/Pioneer/img/favicon/apple-touch-icon-114x114.png">
+    <!--FAVICONS-->
+    <link rel="shortcut icon" href="img/favicon/favicon.ico">
+    <link rel="apple-touch-icon" href="img/favicon/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="img/favicon/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="img/favicon/apple-touch-icon-114x114.png">
+
+    <!--END FAVICONS-->
+    <!--END FAVICONS-->
+
+</head>
+
+<body id="startpage">
+
+    @* start header *@
+    @Html.Action("getHeader", "Home")
+    @* end header *@
+
+    @RenderBody()
+    <!--start copyright-->
+    @Html.Partial("_Footer")
+    <div id="hotline" class="fade-down">
+        <div id="toolbar" class="off">
+            <a id="show" onclick="show()">
+                <span>@Resources.SupportOnline</span>
+            </a>
+        </div>
+       
+        <div id="inner" style="display: none;text-align: left;">
+            <p style="margin-top: 5%;color:red;text-align:center"><strong>MRS. Cam Phuong</strong></p>
+            <p style="margin-top: 2%; margin-left:5%"><strong>Phone:</strong> 093 777 58 38</p>
+            <p style="margin-top: 2%; margin-left: 5%">
+                <strong>Email:</strong>
+                pioneertravel.21st@gmail.com
+            </p>
+            <p style="margin-top: 2%; margin-left: 5%"><strong>Skype:</strong>  pioneertravel1st</p>
+        </div>
+    </div>
+    <!--end copyright-->
+    <!--Start js-->
+    <script src="~/Content/Pioneer/js/jquery.min.js"></script> <!--Jquery-->
+    <script src="~/Content/Pioneer/js/jquery-ui.js"></script> <!--Jquery UI-->
+    <script src="~/Content/Pioneer/js/excanvas.js"></script> <!--canvas need for ie-->
+    <script src="~/Content/Pioneer/rs-plugin/js/jquery.themepunch.plugins.min.js"></script> <!--rev slider-->
+    <script src="~/Content/Pioneer/rs-plugin/js/jquery.themepunch.revolution.min.js"></script> <!--rev slider-->
+    <script src="~/Content/Pioneer/js/scroolto.js"></script> <!--Scrool To-->
+    <script src="~/Content/Pioneer/js/jquery.nicescroll.min.js"></script> <!--Nice Scroll-->
+    <script src="~/Content/Pioneer/js/jquery.inview.min.js"></script> <!--inview-->
+    <script src="~/Content/Pioneer/js/menu/hoverIntent.js"></script> <!--superfish-->
+    <script src="~/Content/Pioneer/js/menu/superfish.min.js"></script> <!--superfish-->
+    <script src="~/Content/Pioneer/js/menu/tinynav.min.js"></script> <!--tinynav-->
+    <script src="~/Content/Pioneer/js/twitter/jquery.twitterfeed.min.js"></script> <!--twitter-->
+    <script src="~/Content/Pioneer/js/settings.js"></script> <!--settings-->
+
+    <script src="~/Content/Pioneer/js/jquery.parallax-1.1.3.js"></script> <!--parallax-->
+    <!--End js-->
+
+    <script type='text/javascript'>
+        /* <![CDATA[ */
+
+
+
+        //start revolution slider
+        var revapis;
+
+        jQuery(document).ready(function () {
+
+            revapis = jQuery('.tp-banner-full-screen').revolution(
+			{
+			    delay: 6000,
+			    startwidth: 1170,
+			    startheight: 900,
+			    hideThumbs: 10,
+			    navigationType: "none",
+			    fullWidth: "off",
+			    fullScreen: "on",
+			    fullScreenOffsetContainer: "#copyright"
+			});
+        });	//ready
+        //end revolution slider
+        function show() {
+            $("#inner").slideToggle();
+        }
+
+        /* ]]> */
+    </script>
+
+
+
+
+</body>
+</html>

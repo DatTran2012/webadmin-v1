@@ -1,0 +1,107 @@
+D:\Cong Ty\agritech\PioneerTRavel\PioneerTravel\Outsourcing.Core\bin\Outsourcing.Core.dll.config
+D:\Cong Ty\agritech\PioneerTRavel\PioneerTravel\Outsourcing.Core\bin\Outsourcing.Core.dll
+D:\Cong Ty\agritech\PioneerTRavel\PioneerTravel\Outsourcing.Core\bin\Outsourcing.Core.pdb
+D:\Cong Ty\agritech\PioneerTRavel\PioneerTravel\Outsourcing.Core\bin\EntityFramework.dll
+D:\Cong Ty\agritech\PioneerTRavel\PioneerTravel\Outsourcing.Core\bin\EntityFramework.SqlServer.dll
+D:\Cong Ty\agritech\PioneerTRavel\PioneerTravel\Outsourcing.Core\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Cong Ty\agritech\PioneerTRavel\PioneerTravel\Outsourcing.Core\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Cong Ty\agritech\PioneerTRavel\PioneerTravel\Outsourcing.Core\bin\Microsoft.Web.Infrastructure.dll
+D:\Cong Ty\agritech\PioneerTRavel\PioneerTravel\Outsourcing.Core\bin\Outsourcing.Data.dll
+D:\Cong Ty\agritech\PioneerTRavel\PioneerTravel\Outsourcing.Core\bin\System.Web.Helpers.dll
+D:\Cong Ty\agritech\PioneerTRavel\PioneerTravel\Outsourcing.Core\bin\System.Web.Mvc.dll
+D:\Cong Ty\agritech\PioneerTRavel\PioneerTravel\Outsourcing.Core\bin\System.Web.Razor.dll
+D:\Cong Ty\agritech\PioneerTRavel\PioneerTravel\Outsourcing.Core\bin\System.Web.WebPages.Deployment.dll
+D:\Cong Ty\agritech\PioneerTRavel\PioneerTravel\Outsourcing.Core\bin\System.Web.WebPages.dll
+D:\Cong Ty\agritech\PioneerTRavel\PioneerTravel\Outsourcing.Core\bin\System.Web.WebPages.Razor.dll
+D:\Cong Ty\agritech\PioneerTRavel\PioneerTravel\Outsourcing.Core\bin\PagedList.dll
+D:\Cong Ty\agritech\PioneerTRavel\PioneerTravel\Outsourcing.Core\bin\Outsourcing.Data.pdb
+D:\Cong Ty\agritech\PioneerTRavel\PioneerTravel\Outsourcing.Core\bin\Outsourcing.Data.dll.config
+D:\Cong Ty\agritech\PioneerTRavel\PioneerTravel\Outsourcing.Core\bin\EntityFramework.xml
+D:\Cong Ty\agritech\PioneerTRavel\PioneerTravel\Outsourcing.Core\bin\EntityFramework.SqlServer.xml
+D:\Cong Ty\agritech\PioneerTRavel\PioneerTravel\Outsourcing.Core\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Cong Ty\agritech\PioneerTRavel\PioneerTravel\Outsourcing.Core\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Cong Ty\agritech\PioneerTRavel\PioneerTravel\Outsourcing.Core\bin\System.Web.Helpers.xml
+D:\Cong Ty\agritech\PioneerTRavel\PioneerTravel\Outsourcing.Core\bin\System.Web.Mvc.xml
+D:\Cong Ty\agritech\PioneerTRavel\PioneerTravel\Outsourcing.Core\bin\System.Web.Razor.xml
+D:\Cong Ty\agritech\PioneerTRavel\PioneerTravel\Outsourcing.Core\bin\System.Web.WebPages.xml
+D:\Cong Ty\agritech\PioneerTRavel\PioneerTravel\Outsourcing.Core\bin\System.Web.WebPages.Deployment.xml
+D:\Cong Ty\agritech\PioneerTRavel\PioneerTravel\Outsourcing.Core\bin\System.Web.WebPages.Razor.xml
+D:\Cong Ty\agritech\PioneerTRavel\PioneerTravel\Outsourcing.Core\bin\PagedList.xml
+D:\Cong Ty\agritech\PioneerTRavel\PioneerTravel\Outsourcing.Core\obj\Debug\Outsourcing.Core.csprojAssemblyReference.cache
+D:\Cong Ty\agritech\PioneerTRavel\PioneerTravel\Outsourcing.Core\obj\Debug\Outsourcing.Core.csproj.CoreCompileInputs.cache
+D:\Cong Ty\agritech\PioneerTRavel\PioneerTravel\Outsourcing.Core\obj\Debug\Outsourcing.Core.csproj.CopyComplete
+D:\Cong Ty\agritech\PioneerTRavel\PioneerTravel\Outsourcing.Core\obj\Debug\Outsourcing.Core.dll
+D:\Cong Ty\agritech\PioneerTRavel\PioneerTravel\Outsourcing.Core\obj\Debug\Outsourcing.Core.pdb
+D:\petpro\Source_goc\PioneerTRavel\PioneerTravel\Outsourcing.Core\bin\Outsourcing.Core.dll.config
+D:\petpro\Source_goc\PioneerTRavel\PioneerTravel\Outsourcing.Core\bin\Outsourcing.Core.dll
+D:\petpro\Source_goc\PioneerTRavel\PioneerTravel\Outsourcing.Core\bin\Outsourcing.Core.pdb
+D:\petpro\Source_goc\PioneerTRavel\PioneerTravel\Outsourcing.Core\bin\EntityFramework.dll
+D:\petpro\Source_goc\PioneerTRavel\PioneerTravel\Outsourcing.Core\bin\EntityFramework.SqlServer.dll
+D:\petpro\Source_goc\PioneerTRavel\PioneerTravel\Outsourcing.Core\bin\Microsoft.AspNet.Identity.Core.dll
+D:\petpro\Source_goc\PioneerTRavel\PioneerTravel\Outsourcing.Core\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\petpro\Source_goc\PioneerTRavel\PioneerTravel\Outsourcing.Core\bin\Microsoft.Web.Infrastructure.dll
+D:\petpro\Source_goc\PioneerTRavel\PioneerTravel\Outsourcing.Core\bin\Outsourcing.Data.dll
+D:\petpro\Source_goc\PioneerTRavel\PioneerTravel\Outsourcing.Core\bin\System.Web.Helpers.dll
+D:\petpro\Source_goc\PioneerTRavel\PioneerTravel\Outsourcing.Core\bin\System.Web.Mvc.dll
+D:\petpro\Source_goc\PioneerTRavel\PioneerTravel\Outsourcing.Core\bin\System.Web.Razor.dll
+D:\petpro\Source_goc\PioneerTRavel\PioneerTravel\Outsourcing.Core\bin\System.Web.WebPages.Deployment.dll
+D:\petpro\Source_goc\PioneerTRavel\PioneerTravel\Outsourcing.Core\bin\System.Web.WebPages.dll
+D:\petpro\Source_goc\PioneerTRavel\PioneerTravel\Outsourcing.Core\bin\System.Web.WebPages.Razor.dll
+D:\petpro\Source_goc\PioneerTRavel\PioneerTravel\Outsourcing.Core\bin\PagedList.dll
+D:\petpro\Source_goc\PioneerTRavel\PioneerTravel\Outsourcing.Core\bin\Outsourcing.Data.pdb
+D:\petpro\Source_goc\PioneerTRavel\PioneerTravel\Outsourcing.Core\bin\Outsourcing.Data.dll.config
+D:\petpro\Source_goc\PioneerTRavel\PioneerTravel\Outsourcing.Core\bin\EntityFramework.xml
+D:\petpro\Source_goc\PioneerTRavel\PioneerTravel\Outsourcing.Core\bin\EntityFramework.SqlServer.xml
+D:\petpro\Source_goc\PioneerTRavel\PioneerTravel\Outsourcing.Core\bin\Microsoft.AspNet.Identity.Core.xml
+D:\petpro\Source_goc\PioneerTRavel\PioneerTravel\Outsourcing.Core\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\petpro\Source_goc\PioneerTRavel\PioneerTravel\Outsourcing.Core\bin\System.Web.Helpers.xml
+D:\petpro\Source_goc\PioneerTRavel\PioneerTravel\Outsourcing.Core\bin\System.Web.Mvc.xml
+D:\petpro\Source_goc\PioneerTRavel\PioneerTravel\Outsourcing.Core\bin\System.Web.Razor.xml
+D:\petpro\Source_goc\PioneerTRavel\PioneerTravel\Outsourcing.Core\bin\System.Web.WebPages.xml
+D:\petpro\Source_goc\PioneerTRavel\PioneerTravel\Outsourcing.Core\bin\System.Web.WebPages.Deployment.xml
+D:\petpro\Source_goc\PioneerTRavel\PioneerTravel\Outsourcing.Core\bin\System.Web.WebPages.Razor.xml
+D:\petpro\Source_goc\PioneerTRavel\PioneerTravel\Outsourcing.Core\bin\PagedList.xml
+D:\petpro\Source_goc\PioneerTRavel\PioneerTravel\Outsourcing.Core\obj\Debug\Outsourcing.Core.csprojAssemblyReference.cache
+D:\petpro\Source_goc\PioneerTRavel\PioneerTravel\Outsourcing.Core\obj\Debug\Outsourcing.Core.csproj.CoreCompileInputs.cache
+D:\petpro\Source_goc\PioneerTRavel\PioneerTravel\Outsourcing.Core\obj\Debug\Outsourcing.Core.csproj.CopyComplete
+D:\petpro\Source_goc\PioneerTRavel\PioneerTravel\Outsourcing.Core\obj\Debug\Outsourcing.Core.dll
+D:\petpro\Source_goc\PioneerTRavel\PioneerTravel\Outsourcing.Core\obj\Debug\Outsourcing.Core.pdb
+E:\HocTap\ThucTap\A-Long-Thuc-Tap\PetPro_Source\PioneerTravel\Outsourcing.Core\obj\Debug\Outsourcing.Core.csproj.AssemblyReference.cache
+E:\HocTap\ThucTap\A-Long-Thuc-Tap\PetPro_Source\PioneerTravel\Outsourcing.Core\obj\Debug\Outsourcing.Core.csproj.CoreCompileInputs.cache
+E:\HocTap\ThucTap\A-Long-Thuc-Tap\PetPro_Source\PioneerTravel\Outsourcing.Core\bin\Outsourcing.Core.dll.config
+E:\HocTap\ThucTap\A-Long-Thuc-Tap\PetPro_Source\PioneerTravel\Outsourcing.Core\bin\Outsourcing.Core.dll
+E:\HocTap\ThucTap\A-Long-Thuc-Tap\PetPro_Source\PioneerTravel\Outsourcing.Core\bin\Outsourcing.Core.pdb
+E:\HocTap\ThucTap\A-Long-Thuc-Tap\PetPro_Source\PioneerTravel\Outsourcing.Core\bin\EntityFramework.dll
+E:\HocTap\ThucTap\A-Long-Thuc-Tap\PetPro_Source\PioneerTravel\Outsourcing.Core\bin\EntityFramework.SqlServer.dll
+E:\HocTap\ThucTap\A-Long-Thuc-Tap\PetPro_Source\PioneerTravel\Outsourcing.Core\bin\Microsoft.AspNet.Identity.Core.dll
+E:\HocTap\ThucTap\A-Long-Thuc-Tap\PetPro_Source\PioneerTravel\Outsourcing.Core\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\HocTap\ThucTap\A-Long-Thuc-Tap\PetPro_Source\PioneerTravel\Outsourcing.Core\bin\Microsoft.Web.Infrastructure.dll
+E:\HocTap\ThucTap\A-Long-Thuc-Tap\PetPro_Source\PioneerTravel\Outsourcing.Core\bin\Newtonsoft.Json.dll
+E:\HocTap\ThucTap\A-Long-Thuc-Tap\PetPro_Source\PioneerTravel\Outsourcing.Core\bin\Outsourcing.Data.dll
+E:\HocTap\ThucTap\A-Long-Thuc-Tap\PetPro_Source\PioneerTravel\Outsourcing.Core\bin\System.Net.Http.Formatting.dll
+E:\HocTap\ThucTap\A-Long-Thuc-Tap\PetPro_Source\PioneerTravel\Outsourcing.Core\bin\System.Web.Helpers.dll
+E:\HocTap\ThucTap\A-Long-Thuc-Tap\PetPro_Source\PioneerTravel\Outsourcing.Core\bin\System.Web.Mvc.dll
+E:\HocTap\ThucTap\A-Long-Thuc-Tap\PetPro_Source\PioneerTravel\Outsourcing.Core\bin\System.Web.Razor.dll
+E:\HocTap\ThucTap\A-Long-Thuc-Tap\PetPro_Source\PioneerTravel\Outsourcing.Core\bin\System.Web.WebPages.Deployment.dll
+E:\HocTap\ThucTap\A-Long-Thuc-Tap\PetPro_Source\PioneerTravel\Outsourcing.Core\bin\System.Web.WebPages.dll
+E:\HocTap\ThucTap\A-Long-Thuc-Tap\PetPro_Source\PioneerTravel\Outsourcing.Core\bin\System.Web.WebPages.Razor.dll
+E:\HocTap\ThucTap\A-Long-Thuc-Tap\PetPro_Source\PioneerTravel\Outsourcing.Core\bin\ZaloDotNetSDK.dll
+E:\HocTap\ThucTap\A-Long-Thuc-Tap\PetPro_Source\PioneerTravel\Outsourcing.Core\bin\PagedList.dll
+E:\HocTap\ThucTap\A-Long-Thuc-Tap\PetPro_Source\PioneerTravel\Outsourcing.Core\bin\Outsourcing.Data.pdb
+E:\HocTap\ThucTap\A-Long-Thuc-Tap\PetPro_Source\PioneerTravel\Outsourcing.Core\bin\Outsourcing.Data.dll.config
+E:\HocTap\ThucTap\A-Long-Thuc-Tap\PetPro_Source\PioneerTravel\Outsourcing.Core\bin\EntityFramework.xml
+E:\HocTap\ThucTap\A-Long-Thuc-Tap\PetPro_Source\PioneerTravel\Outsourcing.Core\bin\EntityFramework.SqlServer.xml
+E:\HocTap\ThucTap\A-Long-Thuc-Tap\PetPro_Source\PioneerTravel\Outsourcing.Core\bin\Microsoft.AspNet.Identity.Core.xml
+E:\HocTap\ThucTap\A-Long-Thuc-Tap\PetPro_Source\PioneerTravel\Outsourcing.Core\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\HocTap\ThucTap\A-Long-Thuc-Tap\PetPro_Source\PioneerTravel\Outsourcing.Core\bin\Newtonsoft.Json.xml
+E:\HocTap\ThucTap\A-Long-Thuc-Tap\PetPro_Source\PioneerTravel\Outsourcing.Core\bin\System.Net.Http.Formatting.xml
+E:\HocTap\ThucTap\A-Long-Thuc-Tap\PetPro_Source\PioneerTravel\Outsourcing.Core\bin\System.Web.Helpers.xml
+E:\HocTap\ThucTap\A-Long-Thuc-Tap\PetPro_Source\PioneerTravel\Outsourcing.Core\bin\System.Web.Mvc.xml
+E:\HocTap\ThucTap\A-Long-Thuc-Tap\PetPro_Source\PioneerTravel\Outsourcing.Core\bin\System.Web.Razor.xml
+E:\HocTap\ThucTap\A-Long-Thuc-Tap\PetPro_Source\PioneerTravel\Outsourcing.Core\bin\System.Web.WebPages.xml
+E:\HocTap\ThucTap\A-Long-Thuc-Tap\PetPro_Source\PioneerTravel\Outsourcing.Core\bin\System.Web.WebPages.Deployment.xml
+E:\HocTap\ThucTap\A-Long-Thuc-Tap\PetPro_Source\PioneerTravel\Outsourcing.Core\bin\System.Web.WebPages.Razor.xml
+E:\HocTap\ThucTap\A-Long-Thuc-Tap\PetPro_Source\PioneerTravel\Outsourcing.Core\bin\PagedList.xml
+E:\HocTap\ThucTap\A-Long-Thuc-Tap\PetPro_Source\PioneerTravel\Outsourcing.Core\obj\Debug\Outsourcing.Core.csproj.CopyComplete
+E:\HocTap\ThucTap\A-Long-Thuc-Tap\PetPro_Source\PioneerTravel\Outsourcing.Core\obj\Debug\Outsourcing.Core.dll
+E:\HocTap\ThucTap\A-Long-Thuc-Tap\PetPro_Source\PioneerTravel\Outsourcing.Core\obj\Debug\Outsourcing.Core.pdb
